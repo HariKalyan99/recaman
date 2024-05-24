@@ -1,0 +1,1 @@
+This is a template of the recaman series visualizer
